@@ -1,0 +1,28 @@
+.mainTitle {
+    color:gray;
+    font-family: cursive;
+    position: relative;     
+    text-align: center;    
+    top: 0px; 
+    width: 100%;;
+    
+    
+}
+
+.content {
+    height:auto;
+    width:500px;
+    padding: 50px;
+    margin:auto;
+    background-color:navajowhite;
+    border: 15px solid maroon;
+    color:gray;
+    font-family: Arial;
+}
+
+.reference {
+    position: fixed;     
+    text-align: center;    
+    bottom: 0px; 
+    width: 100%;
+}
