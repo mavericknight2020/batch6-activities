@@ -5,8 +5,8 @@ Mark Ryan's GitHub
 A collection of my practice projects during my study at Avion School
 
 
-1. Best Practices
+<a href="https://github.com/mavericknight2020/batch6-activities/tree/main/bestPractice">1. Best Practice</a>
 
-2. Email Formatting
+<a href="https://github.com/mavericknight2020/batch6-activities/tree/main/emailFormatting">2. Email Formatting</a>
 
-3. Tribute Page
+<a href="https://github.com/mavericknight2020/batch6-activities/tree/main/tributePage">3. Tribute Page</a>
