@@ -1,0 +1,112 @@
+body {
+   background-color:#3f0d12;
+    background-image: linear-gradient(315deg, #3f0d12 0%, #a71d31 74%);    
+    margin-top: 0;
+    margin-left: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
+    padding-bottom: 0;
+    
+}
+
+#img-caption {
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    color: gray;
+    
+}
+
+#navBar {
+    background-color: #620000;
+    margin-bottom: 30px;
+    position: sticky; 
+    top: 0px; 
+}
+
+#title {
+    font-family: 'Righteous', cursive;
+    height: 220px;
+    font-size: 200px;
+    font-weight: normal;
+    text-align: center;
+    margin: 0;
+    color: whitesmoke;
+}
+
+#main {
+    font-family: 'Open Sans', sans-serif;
+    height: 50px;
+    font-size: 25px;
+    font-weight: 300;
+    margin: 0;
+    margin-bottom: 50px;
+    text-align: center;
+    color: #EFAD34
+}
+
+#articleTitle {
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 0;
+    color: #EFAD34;
+}
+
+#firstArticle {
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 0;
+}
+
+#secondArticle {
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 0;
+}
+
+p {
+    font-family: 'Orienta', sans-serif;
+    color: whitesmoke;
+}
+
+h6 {
+    margin-top: 0;
+    color: whitesmoke;
+    font-style: italic;
+}
+
+#firstCard,
+#secondCard,
+#thirdCard {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+  }
+  
+.title {
+    font-size: 18px;
+  }
+  
+#mainCard {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between; 
+}
+.block {
+  width: 100px;
+}
+
+#tribute-info {
+    background-color: gray;
+}
+
+#tribute-link {
+    text-align: right;
+    font-style: italic;
+}
