@@ -18,7 +18,8 @@
     box-sizing: border-box;
 
   }
-  body{
+
+body{
     margin: 0;
     padding: 0;
     font-family: var(--body-font);
@@ -75,7 +76,7 @@ p.description__start {
 ;
 }
 
-  div.whole-form {
+div.whole-form {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -148,18 +149,8 @@ p.description__start {
 
 }
 
-.form__button:hover{
-    cursor: pointer; 
+.form__button:hover{ 
     box-shadow: 0 10px 36px rgba(0,0,0,.15);
-}
-
-.btn {
-    transform-style: preserve-3d;
-}
-
-.btn:before {
-    content: "Success";;
-    position: absolute;
 }
 
 /*Input focus move up label*/
