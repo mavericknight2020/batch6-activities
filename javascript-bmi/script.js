@@ -1,7 +1,7 @@
 // BMI formula: BMI = mass / height ** 2 = mass / (height * height). (mass in kg and height in meter).
 
-// TEST DATA 1: John weights 78 kg and is 1.69 m tall. Victor weights 92 kg and is 1.95 m tall.
-// TEST DATA 2: John weights 95 kg and is 1.88 m tall. Victor weights 85 kg and is 1.76 m tall.
+// TEST DATA 1: John weights 86 kg and is 1.71 m tall. Victor weights 91 kg and is 1.86 m tall.
+// TEST DATA 2: John weights 95 kg and is 1.94 m tall. Victor weights 83 kg and is 1.74 m tall.
 
 /* const massJohn = 86;
 const heightJohn = 1.71;
